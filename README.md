@@ -1,2 +1,0 @@
-# Ob
-For me
